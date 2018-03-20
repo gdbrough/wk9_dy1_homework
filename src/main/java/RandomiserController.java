@@ -26,7 +26,7 @@ public class RandomiserController {
         String name7 = new String("Steve");
         String name8 = new String("Paul");
 
-        names.add(name1);
+        names.add(name1);  // names.add("Graeme") would work without assigning variables
         names.add(name2);
         names.add(name3);
         names.add(name4);
